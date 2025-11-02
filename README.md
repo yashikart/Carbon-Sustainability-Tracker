@@ -6,6 +6,13 @@ By leveraging machine learning and comprehensive data analysis, this platform en
 
 ---
 
+Live demo : https://carbon-sustainability-tracker-gmzqpeutlxwrdkyx7saqx7.streamlit.app/
+GitHub : https://github.com/yashikart/Carbon-Sustainability-Tracker
+
+---
+
+--- 
+
 ## 📊 Problem Selection & Justification
 
 ### Core Business Challenges
@@ -207,11 +214,12 @@ carbon_emissions = distance * vehicle_emission_factor * operational_adjustments
 6. **Sustainability Reporting**  
 
 ---
-
+---
 
 ## 📞 Contact & Support
-- **Name:** Yashika Tirkey (86092400061)
-- **Business Inquiries:** yashika.tirkey061@nmims.in
+- **Project Lead:** Logistics Innovation Team  
+- **Technical Support:** Data Science Department  
+- **Business Inquiries:** Sustainability Office  
 
 ---
 
