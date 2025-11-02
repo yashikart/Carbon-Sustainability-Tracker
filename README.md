@@ -208,16 +208,6 @@ carbon_emissions = distance * vehicle_emission_factor * operational_adjustments
 
 ---
 
-## 🎯 Implementation Roadmap
-
-| Phase | Duration | Key Activities |
-|--------|-----------|----------------|
-| Phase 1: Foundation | Months 1–3 | Data integration, dashboard setup, model validation |
-| Phase 2: Optimization | Months 4–9 | ML deployment, route optimization, pilot testing |
-| Phase 3: Scale | Months 10–18 | Enterprise deployment, advanced features |
-| Phase 4: Innovation | Month 19+ | AI-powered optimization, predictive trading |
-
----
 
 ## 📞 Contact & Support
 - **Name:** Yashika Tirkey (86092400061)
